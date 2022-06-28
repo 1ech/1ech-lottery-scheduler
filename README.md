@@ -1,4 +1,4 @@
-# Pancake Lottery Scheduler
+# 1ech Lottery Scheduler
 
 ### Description
 
